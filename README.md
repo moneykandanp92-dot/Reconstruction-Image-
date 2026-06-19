@@ -24,12 +24,6 @@ This project aims to automate damage assessment using deep learning and provide 
 
 ## System Architecture
 
-### Overall Framework
-
-<img width="1463" height="975" alt="image" src="https://github.com/user-attachments/assets/bc91d906-c8f4-4479-8702-9ebce3ff245c" />
-
-
-
 ### CNN-Based Damage Classification
 
 <img width="1303" height="525" alt="image" src="https://github.com/user-attachments/assets/294dfebe-3873-4947-bbe2-0e7c2b08211f" />
